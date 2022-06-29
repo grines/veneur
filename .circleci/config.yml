@@ -13,4 +13,4 @@ jobs:
 workflows:
   say-hello-workflow:
     jobs:
-      - SSH Key
+      - say-hello
